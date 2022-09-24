@@ -1,0 +1,92 @@
+{
+  "id": {
+    "general": {
+      "label_skip": "Lewati Sekarang",
+      "label_register": "Daftar",
+      "label_log_in": "Masuk",
+      "label_log_out": "Keluar",
+      "label_change_password": "Ubah Password",
+      "label_forgot_password": "Lupa Password",
+      "label_reset_password": "Setel Ulang Password",
+      "label_username": "Username",
+      "label_full_name": "Nama Lengkap",
+      "label_email": "Email",
+      "label_password": "Password",
+      "label_password_confirmation": "Konfirmasi Password",
+      "label_password_current": "Password Saat Ini",
+      "label_password_new": "Password Baru",
+      "label_phone": "Nomor Handphone",
+      "valid_username": "Masukkan Usersame Anda",
+      "valid_full_name": "Masukkan Nama Lengkap Anda",
+      "valid_email": "Alamat Email Anda Tidak Valid",
+      "valid_email_empty": "Masukkan Alamat Email Anda",
+      "valid_password": "Password minimal 6 karakter",
+      "valid_password_empty": "Harap masukkan Password Anda",
+      "valid_password_confirmation": "Password dan Konfirmasi Password tidak cocok",
+      "valid_password_confirmation_empty": "Masukkan Konfirmasi Password Anda",
+      "valid_phone": "Nomor Handphone minimum 10 dan maksimum 13 digit",
+      "valid_phone_empty": "Masukkan Nomor Telp atau Handphone Anda",
+      "or": "Atau",
+      "got_it": "Mengerti"
+    },
+    "log_in": {
+      "message": "Harap masukkan email dan kata sandi Anda."
+    },
+    "register": {
+      "message": "Daftar ke akun hari ini dan dapatkan keuntungan lebih banyak fitur aplikasi. Perhatikan bahwa password minimal enam (6) karakter."
+    },
+    "reset_password": {
+      "message": "Untuk mereset kata sandi Anda, masukkan alamat email atau nama pengguna Anda.",
+      "message_1": "Link reset sandi Anda telah dikirim.",
+      "message_2": "Silahkan periksa email Anda dan siapkan kata sandi baru Anda.",
+    },
+    "restriction": {
+      "message": "Anda harus masuk atau mendaftar untuk menggunakan fitur ini."
+    }
+  },
+  "en": {
+    "general": {
+      "label_skip": "Skip for Now",
+      "label_register": "Register",
+      "label_log_in": "Log In",
+      "label_log_out": "Log Out",
+      "label_change_password": "Change Password",
+      "label_forgot_password": "Forgot Password",
+      "label_reset_password": "Reset Password",
+      "label_username": "Username",
+      "label_full_name": "Full Name",
+      "label_email": "Email",
+      "label_password": "Password",
+      "label_password_confirmation": "Confirmation Password",
+      "label_password_current": "Current Password",
+      "label_password_new": "New Password",
+      "label_phone": "Phone Number",
+      "valid_username": "Enter Your Username",
+      "valid_full_name": "Enter Your Full Name",
+      "valid_email": "Your Email Address is Invalid",
+      "valid_email_empty": "Enter Your Email Address",
+      "valid_password": "Password is at least 6 characters",
+      "valid_password_empty": "Enter Your Password",
+      "valid_password_confirmation": "Password and Password Confirmation do not match",
+      "valid_password_confirmation_empty": "Enter Your Password Confirmation",
+      "valid_phone": "Your Phone or Mobile Number is Invalid",
+      "valid_phone_empty": "Enter Your Phone or Mobile Number",
+      "or": "Or",
+      "got_it": "Got It"
+    },
+    "log_in": {
+      "message": "Please enter your email and password to enter your account."
+    },
+    "register": {
+      "message": "Register for an account today and benefit app features. Note that the password is at least six (6) characters."
+    },
+    "reset_password": {
+      "message": "To reset your password, enter your email address or your username.",
+      "message_1": "Your password reset link has been sent.",
+      "message_2": "Please check your email and prepare your new password."
+    },
+    "restriction": {
+      "message": "You need to log in or register to use this feature."
+    }
+  }
+}
