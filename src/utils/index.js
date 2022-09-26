@@ -30,6 +30,10 @@ const Colors = {
   Transparent: 'transparent',
   WhiteTranscluent: 'rgba(255, 255, 255, 0.75)',
   BlackTranscluent: 'rgba(0, 0, 0, 0.75)',
+  DarkThemeBG: '#212121',
+  DarkThemeSB: '#000000',
+  LightThemeBG: '#FFFFFF',
+  LightThemeSB: '#FFFFFF',
 };
 
 const Fonts = {
